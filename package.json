@@ -1,0 +1,8 @@
+{
+  "name": "chrome-devtools-frontend-prebuilt",
+  "description": "Prebuilt version of Chrome DevTools UI",
+  "version": "1.0.975442",
+  "scripts": {
+    "build": "./build.sh"
+  }
+}
